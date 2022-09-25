@@ -11,4 +11,7 @@ jobs:
       board: '["nice_nano_v2"]'
       shield: '["kyria_rev2_left","kyria_rev2_right"]'
       kconfig: '["default"]'
-      branches: '["infused-kim/zmk/my-changes/oled-ext-pwr"]'
+      branches: '[
+        "zmkfirmware/zmk/main",
+        "infused-kim/zmk/my-changes/oled-ext-pwr"
+      ]'
