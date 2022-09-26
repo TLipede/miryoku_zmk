@@ -12,5 +12,5 @@ jobs:
       shield: '["kyria_rev2_left","kyria_rev2_right"]'
       kconfig: '["default"]'
       branches: '[
-        "nickconway/zmk/dev"
+        "pitchayath/zmk/luna"
       ]'
