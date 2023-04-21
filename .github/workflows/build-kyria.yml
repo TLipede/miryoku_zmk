@@ -12,5 +12,5 @@ jobs:
       shield: '["kyria_rev2_left","kyria_rev2_right"]'
       kconfig: '["default"]'
       branches: '[
-        "pitchayath/zmk/luna", "urob/zmk/mouse-3.2"
+        "pitchayath/zmk/luna"
       ]'
